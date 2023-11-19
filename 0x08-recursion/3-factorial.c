@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *factorial: returns the factorial of a given number.
+ * factorial - Write a function that returns the factorial of a given number.
  *
- * @n: this is the input number
+ * @n: This is the input number
  *
- * return: the factorial of a given number
+ * Return: The factorial of a given number
  */
 
 int factorial(int n)
