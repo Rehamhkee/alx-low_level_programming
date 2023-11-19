@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/*Write a function that returns... 
+/*
+ * Write a function that returns... 
  *
  *
  * the length of a string
