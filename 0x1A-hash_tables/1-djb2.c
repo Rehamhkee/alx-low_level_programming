@@ -1,9 +1,9 @@
-nclude "hash_tables.h"
+#include "hash_tables.h"
 
 /**
- * hash_djb2 - a hash function implementing djb2 algorithm
+ * hash_djb2 - implementation of the djb2 algorithm
+ * @str: string used to generate hash value
  *
- * @str: string
  * Return: hash value
  */
 unsigned long int hash_djb2(const unsigned char *str)
